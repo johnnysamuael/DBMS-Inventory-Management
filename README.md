@@ -1,5 +1,5 @@
 
-# Flutter based Inventory Management System with MSSQL Backend and ASP.NET
+# Inventory Management System with MSSQL 
 IEWMS is our unique customisable solution which provides your warehouse and workers with
 realtime access to Warehouse Management to improve accuracy and boost worker productivity.
 This can be deployed in warehouses and manufacturing plants to provide end to end inventory
