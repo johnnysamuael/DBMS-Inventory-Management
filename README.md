@@ -1,6 +1,6 @@
 
 # Inventory Management System with MSSQL 
-IEWMS is our unique customisable solution which provides your warehouse and workers with
+Inventory Management System is our unique customisable solution which provides your warehouse and workers with
 realtime access to Warehouse Management to improve accuracy and boost worker productivity.
 This can be deployed in warehouses and manufacturing plants to provide end to end inventory
 control from receipt of finished goods through production to dispatch. Rezzlon’s IEWMS drives
